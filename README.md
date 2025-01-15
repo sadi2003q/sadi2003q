@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm MD Adnan Abdullah</h1>
 <h3 align="center">A passionate iOS Developer and Machine Learning enthusiast dedicated to creating innovative mobile applications and intelligent solutions that enhance user experiences and solve real-world problems.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadi2003q](https://github.com/sadi2003q)
 
