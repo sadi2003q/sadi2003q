@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/originals/aa/b6/87/aab687219fe81b12d60db220de0dd17c.gif)
+![MasterHead](https://i.pinimg.com/originals/aa/b6/87/aab687219fe81b12d60db220de0dd17c.gif)
 
 <h1 align="center">Hi 👋, I'm MD Adnan Abdullah</h1>
 <h3 align="center">A passionate iOS Developer and Machine Learning enthusiast dedicated to creating innovative mobile applications and intelligent solutions that enhance user experiences and solve real-world problems.</h3>
